@@ -1,5 +1,5 @@
 import rospy
-from autominy_msgs import Speed
+from autominy_msgs.msg import Speed
 
 def callback(data):
 	rospy.loginfo(rospy.get_caller_id() + "Current Speed is: %", data.data)
