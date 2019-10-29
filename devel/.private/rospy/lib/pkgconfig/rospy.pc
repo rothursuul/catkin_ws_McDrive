@@ -1,0 +1,8 @@
+prefix=/home/per/Study/Robotics/catkin_ws_McDrive/devel/.private/rospy
+
+Name: rospy
+Description: Description of rospy
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/per/Study/Robotics/catkin_ws_McDrive/devel/.private/rospy/lib 
+Requires: 

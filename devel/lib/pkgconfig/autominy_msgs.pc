@@ -1,0 +1,1 @@
+/home/per/Study/Robotics/catkin_ws_McDrive/devel/.private/autominy_msgs/lib/pkgconfig/autominy_msgs.pc

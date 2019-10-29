@@ -1,0 +1,5 @@
+autominy_msgs
+/home/per/Study/Robotics/catkin_ws_McDrive/devel/.private/autominy_msgs/cmake.lock /home/per/Study/Robotics/catkin_ws_McDrive/devel/./cmake.lock
+/home/per/Study/Robotics/catkin_ws_McDrive/devel/.private/autominy_msgs/share/autominy_msgs/cmake/autominy_msgsConfig.cmake /home/per/Study/Robotics/catkin_ws_McDrive/devel/share/autominy_msgs/cmake/autominy_msgsConfig.cmake
+/home/per/Study/Robotics/catkin_ws_McDrive/devel/.private/autominy_msgs/share/autominy_msgs/cmake/autominy_msgsConfig-version.cmake /home/per/Study/Robotics/catkin_ws_McDrive/devel/share/autominy_msgs/cmake/autominy_msgsConfig-version.cmake
+/home/per/Study/Robotics/catkin_ws_McDrive/devel/.private/autominy_msgs/lib/pkgconfig/autominy_msgs.pc /home/per/Study/Robotics/catkin_ws_McDrive/devel/lib/pkgconfig/autominy_msgs.pc

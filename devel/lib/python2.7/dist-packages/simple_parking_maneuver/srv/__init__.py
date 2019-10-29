@@ -1,0 +1,1 @@
+/home/per/Study/Robotics/catkin_ws_McDrive/devel/.private/simple_parking_maneuver/lib/python2.7/dist-packages/simple_parking_maneuver/srv/__init__.py

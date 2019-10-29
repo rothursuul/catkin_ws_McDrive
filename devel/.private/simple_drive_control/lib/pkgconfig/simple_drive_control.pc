@@ -1,0 +1,8 @@
+prefix=/home/per/Study/Robotics/catkin_ws_McDrive/devel/.private/simple_drive_control
+
+Name: simple_drive_control
+Description: Description of simple_drive_control
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/per/Study/Robotics/catkin_ws_McDrive/devel/.private/simple_drive_control/lib 
+Requires: 

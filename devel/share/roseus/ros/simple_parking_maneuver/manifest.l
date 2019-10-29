@@ -1,0 +1,1 @@
+/home/per/Study/Robotics/catkin_ws_McDrive/devel/.private/simple_parking_maneuver/share/roseus/ros/simple_parking_maneuver/manifest.l

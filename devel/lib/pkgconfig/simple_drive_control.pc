@@ -1,0 +1,1 @@
+/home/per/Study/Robotics/catkin_ws_McDrive/devel/.private/simple_drive_control/lib/pkgconfig/simple_drive_control.pc

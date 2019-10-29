@@ -1,0 +1,6 @@
+devel_space: /home/per/Study/Robotics/catkin_ws_McDrive/devel
+install: false
+install_space: /home/per/Study/Robotics/catkin_ws_McDrive/install
+profile: default
+source_space: /home/per/Study/Robotics/catkin_ws_McDrive/src
+workspace: /home/per/Study/Robotics/catkin_ws_McDrive

@@ -1,0 +1,1 @@
+/home/per/Study/Robotics/catkin_ws_McDrive/devel/.private/assignment2_publisher_subscriber/share/assignment2_publisher_subscriber/cmake/assignment2_publisher_subscriberConfig.cmake
